@@ -24,7 +24,6 @@
          <Button fx:id="multiPlayerButton" onAction="#onMultiPlayerClick" styleClass="menu-button" text="Multiplayer" />
          <Button fx:id="singlePlayerButton" onAction="#onSinglePlayerClick" styleClass="menu-button" text="Singleplayer" />
          <Button fx:id="exitButton" onAction="#onExitClick" styleClass="menu-button" text="Exit" />
-         <Button fx:id="creditsButton" mnemonicParsing="false" onAction="#onCreditsClick" text="Credits" />
       </VBox>
    </VBox>
 </AnchorPane>
